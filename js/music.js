@@ -1,5 +1,4 @@
 //     music.js
-//     (c) 2015-1-23 yalay
 //     music.js may be freely distributed under the MIT license.
 
 // 刷新音乐播放按钮状态
